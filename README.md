@@ -4,8 +4,8 @@
 
 # SWIFT
 
-[정확히 weak self는 언제 사용하는 걸까?](https://github.com/KangChangHyeok/TIL/issues/2)  
-[메타 타입 관련 정리](https://github.com/KangChangHyeok/TIL/issues/4)
+- [정확히 weak self는 언제 사용하는 걸까?](https://github.com/KangChangHyeok/TIL/issues/2)  
+- [메타 타입 관련 정리](https://github.com/KangChangHyeok/TIL/issues/4)
 
 # iOS
 
