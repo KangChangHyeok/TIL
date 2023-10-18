@@ -12,6 +12,7 @@
 - [UIScrollView의 RefreshControl을 custom하는 방법](https://github.com/KangChangHyeok/TIL/issues/5)
 - [Frame vs Bounds](https://github.com/KangChangHyeok/TIL/issues/8)
 - [실제 디바이스가 없을 경우 해볼수 있는 것과 없는 것](https://github.com/KangChangHyeok/TIL/issues/9)
+- [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체들](https://github.com/KangChangHyeok/TIL/issues/10)
 # Xcode
 
 # WWDC
