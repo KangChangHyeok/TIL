@@ -11,6 +11,7 @@
 - [NSCache](https://github.com/KangChangHyeok/TIL/issues/7)  
 - [UIScrollView의 RefreshControl을 custom하는 방법](https://github.com/KangChangHyeok/TIL/issues/5)
 - [Frame vs Bounds](https://github.com/KangChangHyeok/TIL/issues/8)
+- [실제 디바이스가 없을 경우 해볼수 있는 것과 없는 것](https://github.com/KangChangHyeok/TIL/issues/9)
 # Xcode
 
 # WWDC
