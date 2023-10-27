@@ -7,6 +7,7 @@
 - [정확히 weak self는 언제 사용하는 걸까?](https://github.com/KangChangHyeok/TIL/issues/2)  
 - [메타 타입 관련 정리](https://github.com/KangChangHyeok/TIL/issues/4)
 - [swift의 메모리 구조](https://github.com/KangChangHyeok/TIL/issues/11)
+- [inout 키워드](https://github.com/KangChangHyeok/TIL/issues/13)
 
 # iOS
 - [NSCache](https://github.com/KangChangHyeok/TIL/issues/7)  
