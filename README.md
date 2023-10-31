@@ -16,6 +16,7 @@
 - [실제 디바이스가 없을 경우 해볼수 있는 것과 없는 것](https://github.com/KangChangHyeok/TIL/issues/9)
 - [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체들](https://github.com/KangChangHyeok/TIL/issues/10)
 - [UIView-Encapsulated-Layout-Width 관련 경고 해결법](https://github.com/KangChangHyeok/TIL/issues/12)
+- [1x, 2x, 3x? 이미지를 여러개 만드는 이유](https://github.com/KangChangHyeok/TIL/issues/15)
 # Xcode
 
 # WWDC
