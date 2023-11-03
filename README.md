@@ -19,7 +19,7 @@
 - [1x, 2x, 3x? 이미지를 여러개 만드는 이유](https://github.com/KangChangHyeok/TIL/issues/15)
 - [URL, URLComponents, URLRequest 관련 정리](https://github.com/KangChangHyeok/TIL/issues/16)
 # Xcode
-
+- [Infoplist, xcode 기본 세팅 관련 정리](https://github.com/KangChangHyeok/TIL/issues/17)
 # WWDC
 
 # CS
