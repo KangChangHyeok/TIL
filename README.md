@@ -8,6 +8,7 @@
 - [메타 타입 관련 정리](https://github.com/KangChangHyeok/TIL/issues/4)
 - [swift의 메모리 구조](https://github.com/KangChangHyeok/TIL/issues/11)
 - [inout 키워드](https://github.com/KangChangHyeok/TIL/issues/13)
+- [print 사용법 정리](https://github.com/KangChangHyeok/TIL/issues/18)
 
 # iOS
 - [NSCache](https://github.com/KangChangHyeok/TIL/issues/7)  
