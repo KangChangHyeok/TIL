@@ -10,6 +10,7 @@
 - [inout 키워드](https://github.com/KangChangHyeok/TIL/issues/13)
 - [print 사용법 정리](https://github.com/KangChangHyeok/TIL/issues/18)
 - [swift 코테시 유용한 함수들](https://github.com/KangChangHyeok/TIL/issues/20)
+- [String 관련 함수들](https://github.com/KangChangHyeok/TIL/issues/21)
 # iOS
 - [NSCache](https://github.com/KangChangHyeok/TIL/issues/7)  
 - [UIScrollView의 RefreshControl을 custom하는 방법](https://github.com/KangChangHyeok/TIL/issues/5)
