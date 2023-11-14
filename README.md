@@ -21,6 +21,7 @@
 - [URL, URLComponents, URLRequest 관련 정리](https://github.com/KangChangHyeok/TIL/issues/16)
 # Xcode
 - [Infoplist, xcode 기본 세팅 관련 정리](https://github.com/KangChangHyeok/TIL/issues/17)
+- [한 프로젝트 안의 다수 타겟 설정과 전처리문 활용하기](https://github.com/KangChangHyeok/TIL/issues/19)
 # WWDC
 
 # CS
